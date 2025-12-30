@@ -4,7 +4,7 @@ Product Manager with 3+ years of experience in SaaS & enterprise platforms.
 
 ## 🚀 Professional Summary
 
-Strategic and data-driven Product Consultant with close to a decade of cross-functional experience spanning product management, DevOps, and technical support. I bring a strong foundation in product strategy, user research, A/B testing, and KPI-driven decision-making.
+Strategic and data-driven Product Consultant with a decade of cross-functional experience spanning product management, DevOps, and technical support. I bring a strong foundation in product strategy, user research, A/B testing, and KPI-driven decision-making.
 
 ## 🛠️ Tech Stack & Skills
 
