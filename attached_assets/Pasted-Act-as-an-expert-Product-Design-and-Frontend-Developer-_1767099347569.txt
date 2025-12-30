@@ -1,0 +1,77 @@
+Act as an expert Product Design and Frontend Developer. I need you to update my portfolio website with specific content, structural changes, and interactive components. 
+
+Here are the specific requirements for the modification:
+
+### 1. HEADER & INTRO SECTION
+- **Photo:** Add a circular avatar placeholder on the left or center. (I will upload the actual image later).
+- **Headline:** Name: "Shubham Singh"
+- **Sub-headline:** "Product Manager with 3+ years of experience in SaaS & enterprise platforms."
+- **Professional Summary:** Replace the current summary with the following text:
+  > "🎯 Strategic and data-driven Product Consultant with close to a decade of cross-functional experience spanning product management, DevOps, and technical support. I bring a strong foundation in product strategy, user research, A/B testing, and KPI-driven decision-making—empowered by tools like MySQL, Mixpanel, Figma, and Jira.
+  >
+  > Currently, I lead the delivery of a scalable L&D product at Infosys, where I’ve:
+  > ✅ Led the end-to-end delivery of a cloud-based L&D platform
+  > ✅ Boosted user engagement by 30%
+  > ✅ Improved conversion rates by 20% through A/B testing
+  > ✅ Reduced onboarding time by 25% via API integrations
+  > ✅ Launched AI-based features that lifted course completions by 28%
+  > ✅ Saved $150K annually through optimization efforts
+  >
+  > 🔧 Drawing upon a solid background in DevOps, I offer a distinctive systems-thinking perspective to product management. This approach not only enhances agility but also fosters seamless collaboration between technology and business teams."
+
+### 2. WORK EXPERIENCE (Detailed Timeline)
+Update the experience section to be detailed and metric-driven, based on my actual history:
+
+**Role 1: Product Manager | Infosys Limited**
+*(Jul 2022 - Present | Bangalore)*
+- Led the end-to-end transformation of a legacy L&D system into a scalable cloud-native platform serving 250,000+ learners, driving a 75% increase in adoption.
+- Owned the product lifecycle for a GenAI-powered chatbot (Llama 3 8B with RAG), which reduced user effort and increased course completion rates by 28%.
+- Launched a certification platform across 20+ domains, achieving 64% YoY growth in certifications and contributing to a 32% rise in employee promotions.
+- Conducted A/B testing and refinement of conversational flows, resulting in a 20% increase in conversion rates and a 38% improvement in user feedback scores.
+
+**Role 2: Senior Associate Consultant | Infosys Limited**
+*(May 2019 - Jul 2022 | Bangalore)*
+- Designed and maintained Jenkins/GitHub CI/CD pipelines, reducing deployment time by 40% with a 99.5% success rate.
+- Implemented New Relic and ELK monitoring stacks, maintaining 99.9% uptime and reducing incident response time by 30%.
+- Automated server space reporting for 50+ servers, saving approximately 365 manual hours annually.
+
+**Role 3: Technical Solutions Representative II | HP PPS Services India Pvt. Ltd.**
+*(Jan 2016 - May 2019 | Bangalore)*
+- Managed version control and CI/CD workflows for 10+ SaaS applications, consistently achieving 95% on-time delivery.
+- Ensured 99.8% uptime for services supporting 1,000+ users through proactive maintenance and complex troubleshooting.
+
+### 3. SKILLS & COMPETENCIES (Grid Layout)
+Create a modern grid section with badges/tags for the following skills:
+- **Strategy:** Product Strategy, User Research, A/B Testing, Product Roadmap, Competitive Analysis, Stakeholder Management.
+- **Analytics:** Mixpanel, Amplitude, SQL.
+- **Technical:** RESTful APIs, DevOps, GitHub, Jenkins, Python, System Architecture.
+- **Design:** Figma, Wireframing.
+
+### 4. PROJECT PROTOTYPES
+Create a section titled "Featured Projects & Prototypes" with two distinct cards.
+
+**Card 1: TrueWorth (Financial Wellness)**
+- **Title:** TrueWorth
+- **Description:** A no-nonsense financial health tracker to track expenses, set goals, and improve financial health.
+- **Action:** A button labeled "Launch App" that links to: https://trueworth.lovable.app
+- **Visual:** A clean icon representing finance/growth.
+
+**Card 2: Prototype B (The GenAI L&D Chatbot)**
+- **Title:** Learning Assistant AI (Llama 3)
+- **Description:** An interactive mockup of an AI upskilling assistant.
+- **Action:** Create a clickable "Try Demo" button that opens a modal or expands a card.
+- **The Interface (Mockup):**
+  * **UI:** A chat window style.
+  * **Greeting:** "Hi, I'm your Learning Assistant using Llama 3. How can I help you upskill today?"
+  * **Interactivity:** Include dummy clickable chips: "Find Python Courses" and "My Progress."
+  * **Simulation:** When clicked, show a simulated typing animation and a response (e.g., "Here are the top 3 Python courses for you...").
+
+### 5. FOOTER & CONTACT
+- **Social Links:**
+  * LinkedIn: https://www.linkedin.com/in/shubham-singh-pm/
+  * GitHub: https://github.com/shubhamsingh93/
+- **Contact:**
+  * Email: shubhamsingh842@outlook.com
+  * Phone: "Available on request" (Do not display number).
+
+**Design Note:** Keep the styling professional, using a clean color palette (Blues, Whites, Greys) suitable for a Product Manager portfolio.
