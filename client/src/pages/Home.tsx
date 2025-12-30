@@ -15,7 +15,8 @@ import {
   Brain,
   MessageSquare,
   Globe,
-  Award
+  Award,
+  FileDown
 } from "lucide-react";
 
 import { useContact } from "@/hooks/use-contact";
@@ -127,6 +128,11 @@ export default function Home() {
                   <Button variant="ghost" size="icon" className="rounded-full" asChild>
                     <a href="https://www.linkedin.com/in/shubham-singh-pm/" target="_blank" rel="noopener noreferrer">
                       <Linkedin className="w-5 h-5" />
+                    </a>
+                  </Button>
+                  <Button variant="outline" size="lg" className="rounded-full px-8 h-12 text-base gap-2" asChild>
+                    <a href="/Shubham_Singh_Resume.pdf" download="Shubham_Singh_Resume.pdf">
+                      <FileDown className="w-5 h-5" /> Resume
                     </a>
                   </Button>
                 </div>
